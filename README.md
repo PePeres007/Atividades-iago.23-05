@@ -3,7 +3,7 @@ Atividades feitas para treino de HTML
 
 Atividade 1:
 Crie um site de apresentação pessoal:
-Utilize <h1> para seu nome, <h2> para seu título profissional, <p> para um breve resumo sobre você e <a> para links para suas redes sociais.
+Utilize ("<h1>") para seu nome, <h2> para seu título profissional, <p> para um breve resumo sobre você e <a> para links para suas redes sociais.
 
 Atividade 2:
 Desenvolva um blog simples:
